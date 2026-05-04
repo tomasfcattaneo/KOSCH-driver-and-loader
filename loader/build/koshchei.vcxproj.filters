@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\cleanup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\gate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\krw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\mapper.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\pe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\peb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\resolve.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\svc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\sysinfo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\tbt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\cleanup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\crypt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\gate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\koshchei_drv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\krw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\mapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\nt_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\pe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\peb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\resolve.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\shellcode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\svc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\sysinfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\tbt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\tbt_sys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\src\xor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\y1nt0\Desktop\KOSCHH\loader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E1F190C2-3437-38A4-B9FA-8924E01FCC32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{149E6232-4B59-3359-A27C-BBAF38B35BE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\Y1NT0\DESKTOP\KOSCHH\LOADER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/y1nt0/Desktop/KOSCHH/loader -BC:/Users/y1nt0/Desktop/KOSCHH/loader/build --check-stamp-file C:/Users/y1nt0/Desktop/KOSCHH/loader/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

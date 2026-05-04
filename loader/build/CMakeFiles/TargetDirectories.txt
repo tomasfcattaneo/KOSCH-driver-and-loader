@@ -1,0 +1,3 @@
+C:/Users/y1nt0/Desktop/KOSCHH/loader/build/CMakeFiles/loader.dir
+C:/Users/y1nt0/Desktop/KOSCHH/loader/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/y1nt0/Desktop/KOSCHH/loader/build/CMakeFiles/ZERO_CHECK.dir

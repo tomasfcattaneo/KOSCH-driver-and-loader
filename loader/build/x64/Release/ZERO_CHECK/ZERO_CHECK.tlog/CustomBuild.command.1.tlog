@@ -1,0 +1,10 @@
+^C:\USERS\Y1NT0\DESKTOP\KOSCHH\LOADER\BUILD\CMAKEFILES\EFD125C9370A95B63D48F2670BA58853\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/y1nt0/Desktop/KOSCHH/loader -BC:/Users/y1nt0/Desktop/KOSCHH/loader/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/y1nt0/Desktop/KOSCHH/loader/build/KoshcheiLoader.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
